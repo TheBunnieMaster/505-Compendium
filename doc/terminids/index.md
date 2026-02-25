@@ -1,4 +1,4 @@
-# Terminid Swarm
+# Terminids
 BASIC DESCRIPTION HERE
 
 ```{toctree}

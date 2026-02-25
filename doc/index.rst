@@ -6,7 +6,7 @@ Per the Ministry of Security, this compendium will only be accessible to Super E
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Threat Classifications:
 
    automaton-legion/index
