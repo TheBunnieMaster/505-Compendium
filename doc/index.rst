@@ -5,7 +5,7 @@ Contained within this Super Earth approved compendium, details the strengths, we
 Per the Ministry of Security, this compendium will only be accessible to Super Earth’s elite, sharing this compendium’s existence with dissidents, or friends and family of the viewer will result in disciplinary action from the appropriate Democracy Officer.
 
 Author: PVT-7736 "Switch"
-Developer: PVT-9621 "Mastermind"
+Site Maintainer: PVT-9621 "Mastermind"
 
 .. toctree::
    :maxdepth: 2
