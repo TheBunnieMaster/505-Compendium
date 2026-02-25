@@ -6,6 +6,7 @@ Per the Ministry of Security, this compendium will only be accessible to Super E
 
 Author: PVT-7736 "Switch"
 Developer: PVT-9621 "Mastermind"
+
 .. toctree::
    :maxdepth: 2
    :caption: Threat Classifications:
