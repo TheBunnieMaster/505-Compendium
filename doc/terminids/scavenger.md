@@ -1,23 +1,19 @@
 # Scavenger
 
-**Classification:** [e.g., Heavy Armored / Scout]  
-**Threat Level:** [e.g., Extreme / High / Minimal]
+**Classification:** Fodder
+**Threat Level:** Minimum
 
 ---
 
-## Tactical Overview
-Provide a brief summary of why this creature is a threat to Managed Democracy. 
+## Strengths
+Small in size, agile, sharp claws, decent element E-710 conversion.
 
-> **Democracy Officer's Note:**
-> Always maintain a distance of 20 meters. Failure to do so may result in unplanned disassembly of your person.
+## Weaknesses
+No armour, pitiful biological fortitude and constitution.
 
-## Weak Points
-* **Primary:** [e.g., Glowing abdomen]
-* **Secondary:** [e.g., Unarmored joints]
+## Recommended Strategies:
+Kill. Upon failure, recommend the Helldiver responsible to attend a mandatory remedial course in accuracy. Failing that, recommend the Helldiver for decommission.
 
-## Combat Strategy
-1. **Engage with:** [List recommended stratagems or weapons]
-2. **Avoid:** [List behaviors that get Helldivers killed]
 
 ---
 *End of Intel Report*

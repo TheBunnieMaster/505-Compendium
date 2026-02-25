@@ -1,23 +1,24 @@
 # Factory Strider
 
-**Classification:** [e.g., Heavy Armored / Scout]  
-**Threat Level:** [e.g., Extreme / High / Minimal]
+**Classification:** Heavy
+**Threat Level:** High
 
 ---
 
-## Tactical Overview
-Provide a brief summary of why this creature is a threat to Managed Democracy. 
+## Specifications
+The Factory Strider is a massive, quadrupedal armored siege-bot. It serves as a mobile fortress, capable of intermittently deploying small squads of non-heavy automatons from its underside.
 
-> **Democracy Officer's Note:**
-> Always maintain a distance of 20 meters. Failure to do so may result in unplanned disassembly of your person.
+* **Standard Variant:** Features two fusion gatling guns mounted under the "face" and one large burst-fire cannon mounted on its back.
+* **Jammer Variant:** Replaces the back cannon with a miniaturized stratagem jammer. This device scrambles Helldiver forearm-mounted communication devices, causing stratagem codes to randomize while within range.
 
-## Weak Points
-* **Primary:** [e.g., Glowing abdomen]
-* **Secondary:** [e.g., Unarmored joints]
+## Weaknesses
+The primary and most accessible weakness is the deployment hatch (the "belly") located on its underside. Additionally, a very small "eye" port on the front of its cranial radar assembly is vulnerable to precise fire.
 
-## Combat Strategy
-1. **Engage with:** [List recommended stratagems or weapons]
-2. **Avoid:** [List behaviors that get Helldivers killed]
+## Recommended Strategies:
+Prioritize the destruction of the "face"-mounted gatlings and the back-mounted cannon/jammer before closing in. The cannon requires anti-tank ordinance, while the gatlings can be disabled with medium-penetration weaponry. Once neutralized, apply anti-tank fire to the underside hatch. While difficult, the "eye" weakness is a viable target for skilled marksmen.
+
+## Alternative Strategies:
+Use heavy anti-tank fire to peel away sections of its external armor plating. This reveals the unit's inner circuitry and mechanical systems; once exposed, apply liberal amounts of firepower to these internal vulnerabilities to bring the titan down.
 
 ---
 *End of Intel Report*

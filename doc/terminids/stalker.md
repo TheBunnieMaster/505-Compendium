@@ -1,23 +1,19 @@
 # Stalker
 
-**Classification:** [e.g., Heavy Armored / Scout]  
-**Threat Level:** [e.g., Extreme / High / Minimal]
+**Classification:** Medium
+**Threat Level:** High
 
 ---
 
-## Tactical Overview
-Provide a brief summary of why this creature is a threat to Managed Democracy. 
+## Strengths
+Near-perfect cloaking capabilities, high-speed pouncing claw attacks that tear through armour and flesh alike. Has a tongue attack that temporarily renders gravity inoperable to warriors of liberty struck by the attack, regeneration ability while cloaked. Very high natural agility.
 
-> **Democracy Officer's Note:**
-> Always maintain a distance of 20 meters. Failure to do so may result in unplanned disassembly of your person.
+## Weaknesses
+The target is armoured only in light armour-classed carapace, most small firearms will inflict damage, will retreat and cloak after sustaining enough damage. Vulnerable to gas and flame-based weaponry. Emits a notable low guttural growl.
 
-## Weak Points
-* **Primary:** [e.g., Glowing abdomen]
-* **Secondary:** [e.g., Unarmored joints]
+## Recommended Strategies:
+Employ high-vigilance tactics when personal position is within suspected target territory, in addition to buddy system tactics. Focus fire each target and make locating the Stalker Lair a top priority.
 
-## Combat Strategy
-1. **Engage with:** [List recommended stratagems or weapons]
-2. **Avoid:** [List behaviors that get Helldivers killed]
 
 ---
 *End of Intel Report*
