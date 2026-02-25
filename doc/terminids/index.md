@@ -2,9 +2,11 @@
 BASIC DESCRIPTION HERE
 
 ```{toctree}
-:maxdepth: 1
+:maxdepth: 2
+:caption: Terminid Species
 
 bile-titan
 charger
 scavenger
 stalker
+```
