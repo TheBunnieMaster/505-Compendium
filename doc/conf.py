@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'The Compendium of Democratically-Incompatible Agents of Tyranny'
-copyright = 'PVT-9621 "Mastermind'
+copyright = 'PVT-9621 "Mastermind"'
 author = 'PVT-7736 "Switch'
 release = '0.1'
 
