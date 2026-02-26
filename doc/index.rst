@@ -13,3 +13,4 @@ Site Maintainer: PVT-9621 "Mastermind"
 
    automaton-legion/index
    terminids/index
+   illuminate/index
